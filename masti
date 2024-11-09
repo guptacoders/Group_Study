@@ -1,0 +1,43 @@
+CH-4 IMMUTABLE DATA STRUCTURES
+String Indexing
+
+s="python is easy"
+print(s[0])
+p
+print(s[-1])
+y
+print(s[16])
+---------------------------------------------------------------------------
+IndexError                                Traceback (most recent call last)
+<ipython-input-5-421bb6f2b507> in <module>
+----> 1 print(s[16])
+
+IndexError: string index out of range
+String Slicing
+
+s1="this is python"
+print(s1[0:5])
+this 
+print(s1[6:])
+s python
+print(s1[:])
+this is python
+print(s1[::2])
+ti spto
+print(s1[::-1])
+nohtyp si siht
+print(s1[3:9:2])
+si 
+print(s1[-1:-9:2])
+print(s1[-1:-9:-2])
+nhy 
+print(s1[-1:-9:1])
+print(s1[-1:-9:-1])
+nohtyp s
+print(s1[1])
+h
+print(s1[8])
+p
+print(s1[-2])
+o
+ 
